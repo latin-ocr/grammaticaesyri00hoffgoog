@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./grammaticaesyri00hoffgoog/grammaticaesyri00hoffgoog_0242.png"; bbox 0 0 4530 5544; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 384 693 1955 1298">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 384 693 1955 1310">
+     <span class='ocr_line' id='line_1_1' title="bbox 757 1142 1587 1298; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1466 1142 1587 1298; x_wconf 37' lang='lat' dir='ltr'><strong>w}</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1087 1175 1238 1260; x_wconf 56' lang='grc' dir='ltr'><strong>ἓξ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 757 1151 883 1252; x_wconf 61' lang='grc' dir='ltr'><strong>..Ξ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 755 1013 1955 1133; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 1939 1092 1955 1108; x_wconf 86' lang='grc'><strong>..</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1843 1021 1911 1112; x_wconf 39' lang='grc' dir='ltr'><strong>..Η</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1688 1030 1693 1036; x_wconf 86' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1466 1013 1601 1124; x_wconf 51' lang='grc' dir='ltr'><strong>,Ξ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1107 1049 1203 1109; x_wconf 73' lang='grc' dir='ltr'><strong>ξ.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 755 1025 882 1133; x_wconf 52' lang='grc' dir='ltr'><strong>,Ξ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 778 893 1241 1019; textangle 270"><span class='ocrx_word' id='word_1_10' title='bbox 1069 893 1241 1002; x_wconf 55' lang='grc' dir='ltr'><strong>ἕ,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 970 948 989 961; x_wconf 72' lang='grc'><strong>.,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 778 896 881 1019; x_wconf 57' lang='lat' dir='ltr'><strong>..ff</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 384 693 1583 791; textangle 270"><span class='ocrx_word' id='word_1_13' title='bbox 1459 693 1583 775; x_wconf 59' lang='grc' dir='ltr'><strong>,ἒ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1087 697 1244 762; x_wconf 62' lang='grc' dir='ltr'><strong>.ἒὲ</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 798 703 884 764; x_wconf 69' lang='grc' dir='ltr'><strong>,Ξ</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 615 778 663 791; x_wconf 79' lang='lat'>1</span> <span class='ocrx_word' id='word_1_17' title='bbox 384 701 532 784; x_wconf 52' lang='grc' dir='ltr'><strong>ἐξ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 474 536 979 634">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 474 536 979 634">
+     <span class='ocr_line' id='line_1_5' title="bbox 474 536 979 634; textangle 270"><span class='ocrx_word' id='word_1_18' title='bbox 474 536 979 634; x_wconf 35' lang='grc' dir='ltr'><strong>ςωνξωυὴυἮὲῡ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2270 5544">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2270 5544">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2270 5544; textangle 270"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 2270 5544; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
